@@ -111,7 +111,7 @@ const Footer = () => {
             </div>
             <div class="mb-4">
               <div href="#!" class="text-neutral-600 dark:text-neutral-200"
-              >Princing</div
+              >Pricing</div
               >
             </div>
 
