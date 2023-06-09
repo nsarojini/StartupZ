@@ -1,3 +1,5 @@
+StartupZ - Connecting Startups
+
 This frontend web page is build using react js and tailwind css , have used components such as navbar, searchbar, slider & footer. Used react icons for importing icons. Have added background image and some animation using tailwind css to make the website more apealing.
 
 This website is fully resopnsive on large, medium and mobile devices. The website is compatible on chrome browser.
